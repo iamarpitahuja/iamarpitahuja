@@ -27,7 +27,7 @@
 
 ** [VEX Echo Library](https://github.com/iamarpitahuja/echo-library)**
 - Custom PID, Motion Profiling, and Odometry algorithms for VEX robotics competition
-- **Think Award winner at the 2025 VEX World Championship** — open-sourced, used by **80+ teams worldwide**
+- **Think Award winner at the 2025 VEX World Championship** — open-sourced
 - Built with C++, C
 
 ** [Ecoquest](https://github.com/iamarpitahuja/ecoquest)**
